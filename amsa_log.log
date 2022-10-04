@@ -1,0 +1,14 @@
+2022-09-26 14:22:47.905  INFO 8344 --- [main] c.b.b.BradleyAdapterApplication          : Starting BradleyAdapterApplication using Java 1.8.0_322 on Befekadu with PID 8344 (C:\Users\Befe\Desktop\proxy_columbia\Bradley-proxy\target\classes started by Befe in C:\Users\Befe\Desktop\proxy_columbia\Bradley-proxy)
+2022-09-26 14:22:47.921  INFO 8344 --- [main] c.b.b.BradleyAdapterApplication          : No active profile set, falling back to 1 default profile: "default"
+2022-09-26 14:22:48.764  INFO 8344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 1119 (http)
+2022-09-26 14:22:48.764  INFO 8344 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-09-26 14:22:48.780  INFO 8344 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-26 14:22:48.827  INFO 8344 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-09-26 14:22:48.827  INFO 8344 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 828 ms
+2022-09-26 14:22:49.014  INFO 8344 --- [main] o.s.s.web.DefaultSecurityFilterChain     : Will not secure any request
+2022-09-26 14:22:49.217  INFO 8344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 1119 (http) with context path ''
+2022-09-26 14:22:49.233  INFO 8344 --- [main] c.b.b.BradleyAdapterApplication          : Started BradleyAdapterApplication in 2.05 seconds (JVM running for 3.023)
+2022-09-26 14:23:53.553  INFO 15340 --- [main] c.b.b.BradleyAdapterApplicationTests     : Starting BradleyAdapterApplicationTests using Java 1.8.0_322 on Befekadu with PID 15340 (started by Befe in C:\Users\Befe\Desktop\proxy_columbia\Bradley-proxy)
+2022-09-26 14:23:53.553  INFO 15340 --- [main] c.b.b.BradleyAdapterApplicationTests     : No active profile set, falling back to 1 default profile: "default"
+2022-09-26 14:23:55.872  INFO 15340 --- [main] o.s.s.web.DefaultSecurityFilterChain     : Will not secure any request
+2022-09-26 14:23:57.073  INFO 15340 --- [main] c.b.b.BradleyAdapterApplicationTests     : Started BradleyAdapterApplicationTests in 4.017 seconds (JVM running for 5.714)
